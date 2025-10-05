@@ -38,6 +38,8 @@ dependencies:
   graphic: ^2.6.0
   table_calendar: ^3.2.0
   http: ^1.5.0
+  camera: ^0.11.2
+  google_fonts: ^6.3.2
 
 dev_dependencies:
   flutter_test:
