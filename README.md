@@ -120,11 +120,21 @@ Design sensibility, user experience, aesthetic choices. Is it intuitive? Does it
 
 
 
-** My Work**
+**My Work**
+
+- **IOS APP
 
 
+- **Features
+- **🗓️ Workout Scheduler – Plan your workouts and stay consistent with reminders and easy tracking.
+- **🤖 AI Coach ("Gymbro") – Get personalized training tips, workout ideas, or motivation powered by AI.
+- **🍎 Food Scanning – Scan food items to view calories and nutritional info instantly.
 
-#Features
-#🗓️ Workout Scheduler – Plan your workouts and stay consistent with reminders and easy tracking.
-#🤖 AI Coach ("Gymbr") – Get personalized training tips, workout ideas, or motivation powered by AI.
-#🍎 Food Scanning – Scan food items to view calories and nutritional info instantly.
+- **start page
+https://github.com/botond35/global-hackathon-v1/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-04%20at%2018.18.49.png?raw=true
+- **home page
+https://github.com/botond35/global-hackathon-v1/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-04%20at%2018.18.57.png?raw=true
+- **chat page
+https://github.com/botond35/global-hackathon-v1/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-04%20at%2018.24.12.png?raw=true
+- **calori scann page i use an emulator so the camera didn't work
+https://github.com/botond35/global-hackathon-v1/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-05%20at%2010.34.58.png?raw=true
