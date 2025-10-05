@@ -130,11 +130,15 @@ Design sensibility, user experience, aesthetic choices. Is it intuitive? Does it
 - **🤖 AI Coach ("Gymbro") – Get personalized training tips, workout ideas, or motivation powered by AI.
 - **🍎 Food Scanning – Scan food items to view calories and nutritional info instantly.
 
-- **start page
-Simulator Screenshot - iPhone 15 Pro Max - 2025-10-04 at 18.18.49.png
-- **home page
-Simulator Screenshot - iPhone 15 Pro Max - 2025-10-04 at 18.18.57.png
-- **chat page
-Simulator Screenshot - iPhone 15 Pro Max - 2025-10-04 at 18.24.12.png
-- **calori scann page i use an emulator so the camera didn't work
-Simulator Screenshot - iPhone 15 Pro Max - 2025-10-05 at 10.34.58.png
+- **Start page**  
+  ![Simulator Screenshot - Start page](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-04%20at%2018.18.49.png)
+
+- **Home page**  
+  ![Simulator Screenshot - Home page](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-04%20at%2018.18.57.png)
+
+- **Chat page**  
+  ![Simulator Screenshot - Chat page](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-04%20at%2018.24.12.png)
+
+- **Calorie scan page** (I used an emulator so the camera didn't work)  
+  ![Simulator Screenshot - Calorie scan page](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-05%20at%2010.34.58.png)
+
