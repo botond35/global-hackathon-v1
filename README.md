@@ -131,10 +131,10 @@ Design sensibility, user experience, aesthetic choices. Is it intuitive? Does it
 - **🍎 Food Scanning – Scan food items to view calories and nutritional info instantly.
 
 - **start page
-https://github.com/botond35/global-hackathon-v1/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-04%20at%2018.18.49.png?raw=true
+Simulator Screenshot - iPhone 15 Pro Max - 2025-10-04 at 18.18.49.png
 - **home page
-https://github.com/botond35/global-hackathon-v1/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-04%20at%2018.18.57.png?raw=true
+Simulator Screenshot - iPhone 15 Pro Max - 2025-10-04 at 18.18.57.png
 - **chat page
-https://github.com/botond35/global-hackathon-v1/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-04%20at%2018.24.12.png?raw=true
+Simulator Screenshot - iPhone 15 Pro Max - 2025-10-04 at 18.24.12.png
 - **calori scann page i use an emulator so the camera didn't work
-https://github.com/botond35/global-hackathon-v1/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-05%20at%2010.34.58.png?raw=true
+Simulator Screenshot - iPhone 15 Pro Max - 2025-10-05 at 10.34.58.png
