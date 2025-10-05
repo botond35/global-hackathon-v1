@@ -117,3 +117,14 @@ Design sensibility, user experience, aesthetic choices. Is it intuitive? Does it
 ---
 
 **Good luck! 🎉**
+
+
+
+** My Work**
+
+
+
+#Features
+#🗓️ Workout Scheduler – Plan your workouts and stay consistent with reminders and easy tracking.
+#🤖 AI Coach ("Gymbr") – Get personalized training tips, workout ideas, or motivation powered by AI.
+#🍎 Food Scanning – Scan food items to view calories and nutritional info instantly.
