@@ -136,9 +136,6 @@ Design sensibility, user experience, aesthetic choices. Is it intuitive? Does it
 - **Home page**  
   ![Simulator Screenshot - Home page](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-04%20at%2018.18.57.png)
 
-- **Chat page**  
-  ![Simulator Screenshot - Chat page](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-04%20at%2018.24.12.png)
-
 - **Calorie scan page** (I used an emulator so the camera didn't work)  
   ![Simulator Screenshot - Calorie scan page](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-10-05%20at%2010.34.58.png)
 
